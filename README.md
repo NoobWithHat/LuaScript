@@ -1,0 +1,2 @@
+# LuaScript
+Lua go brrt
